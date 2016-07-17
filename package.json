@@ -4,6 +4,7 @@
   "description": "Bootstrap application for Bootcamp final asessment",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
