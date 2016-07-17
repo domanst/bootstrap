@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap application for Bootcamp final asessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domanst/bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Tomasz Domański",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domanst/bootstrap/issues"
+  },
+  "homepage": "https://github.com/domanst/bootstrap#readme"
+}
