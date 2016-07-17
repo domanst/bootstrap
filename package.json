@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/domanst/bootstrap/issues"
   },
-  "homepage": "https://github.com/domanst/bootstrap#readme"
+  "homepage": "https://github.com/domanst/bootstrap#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
